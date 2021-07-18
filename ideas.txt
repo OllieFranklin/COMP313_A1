@@ -1,0 +1,22 @@
+Idea for the game
+
+Minimum viable product
+- First-person platformer
+- Enemies walk backwards and forwards on platforms
+	- Player dies if they touch an enemy
+- One level
+	- Player tries to complete level as quickly as possible
+	- Score (time) is displayed on screen
+- Play sounds
+	- Happy sound when you get to the end
+	- Sad sound when you die
+- When you get to the end of the level, show a screen with the final score/time
+- Menu items
+	- Slider selects skin of player
+	- Toggle 
+
+
+Extra things
+- Player can sprint
+- Jump pad
+- Speed boost
