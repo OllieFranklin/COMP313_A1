@@ -1,17 +1,20 @@
-Stuff I want to achieve today:
+Make goal look nicer
+Update HUD to include jump boost
+Make timer a little bit nicer
+Play sounds when you pick up the jump boost
 
-- Finsh menu system (1-2h)
-	- Add settings menu
-	- Make it actually do the settings
-	- Fix the problem where the UI doesn't focus
-	- Fix the problem where it doesn't stretch to 100% width
 
-- Implement moving platforms
-	- Platforms move back and forth in a loop
+LUNCH TIME
 
-- Figure out how to import stuff
-	- Import player model and animation
-	- Import models for the platforms
-	- Make/import a proper model for goal
 
-- Do some amount of level design
+Start following first person tutorial
+
+
+TOMORROW
+
+
+Finish first person
+Animate player
+Make menus nicer
+
+Make video
