@@ -1,4 +1,3 @@
-Make goal look nicer
 Update HUD to include jump boost
 Make timer a little bit nicer
 Play sounds when you pick up the jump boost
