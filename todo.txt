@@ -1,10 +1,4 @@
-LUNCH TIME
-
-
-Play sounds when you pick up the jump boost
-
-
-
+Implement sound toggle in settings menu
 Start following first person tutorial
 
 
