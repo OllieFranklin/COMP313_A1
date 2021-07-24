@@ -1,0 +1,5 @@
+C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\PlatformerCPP\Intermediate\Build\Win64\UE4Editor\Development\PlatformerCPP\Definitions.PlatformerCPP.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\PlatformerCPP\Source\PlatformerCPP/PlatformerCPPProjectile.h
+C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\PlatformerCPP\Intermediate\Build\Win64\UE4Editor\Inc\PlatformerCPP\PlatformerCPPProjectile.generated.h

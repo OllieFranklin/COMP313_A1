@@ -1,0 +1,2 @@
+C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\PlatformerCPP\Intermediate\Build\Win64\UE4Editor\Development\PlatformerCPP\Definitions.PlatformerCPP.h
+C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\PlatformerCPP\Source\PlatformerCPP\PlatformerCPP.h
