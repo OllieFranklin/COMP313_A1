@@ -1,5 +1,7 @@
 C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\BlankProjectCPP\Intermediate\Build\Win64\UE4Editor\Development\BlankProjectCPP\Definitions.BlankProjectCPP.h
 C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\BlankProjectCPP\Source\BlankProjectCPP\PlatformerCharacter.h
+C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\BlankProjectCPP\Source\BlankProjectCPP\Weapon.h
+C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\BlankProjectCPP\Intermediate\Build\Win64\UE4Editor\Inc\BlankProjectCPP\Weapon.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h

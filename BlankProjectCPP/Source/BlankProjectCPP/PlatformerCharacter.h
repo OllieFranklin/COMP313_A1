@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Weapon.h"
 #include "Camera/CameraComponent.h"
 #include "Components/CapsuleComponent.h"
 #include "GameFramework/Character.h"
@@ -46,8 +47,11 @@ public:
 		UCameraComponent* FPSCameraComponent;
 
 	// First-person mesh (arms), visible only to the owning player.
-	UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
+	UPROPERTY(VisibleDefaultsOnly, BlueprintReadWrite, Category = Mesh)
 		USkeletalMeshComponent* FPSMesh;
+
+//	UPROPERTY(VisibleAnywhere)
+//
 
 
 };

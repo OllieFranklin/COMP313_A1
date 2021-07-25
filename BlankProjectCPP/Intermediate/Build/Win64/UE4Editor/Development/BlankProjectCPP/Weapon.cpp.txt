@@ -1,0 +1,3 @@
+C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\BlankProjectCPP\Intermediate\Build\Win64\UE4Editor\Development\BlankProjectCPP\Definitions.BlankProjectCPP.h
+C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\BlankProjectCPP\Source\BlankProjectCPP\Weapon.h
+C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\BlankProjectCPP\Intermediate\Build\Win64\UE4Editor\Inc\BlankProjectCPP\Weapon.generated.h

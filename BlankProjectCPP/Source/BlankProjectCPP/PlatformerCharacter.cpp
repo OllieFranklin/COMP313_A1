@@ -1,6 +1,5 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "PlatformerCharacter.h"
 
 // Sets default values
@@ -39,20 +38,12 @@ APlatformerCharacter::APlatformerCharacter()
 void APlatformerCharacter::BeginPlay()
 {
 	Super::BeginPlay();
-
-	check(GEngine != nullptr);
-
-	// Display a debug message for five seconds. 
-	// The -1 "Key" value argument prevents the message from being updated or refreshed.
-	GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("We are using FPSCharacter."));
-	
 }
 
 // Called every frame
 void APlatformerCharacter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-
 }
 
 // Called to bind functionality to input

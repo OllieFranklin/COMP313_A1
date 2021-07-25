@@ -3,16 +3,13 @@
   <ItemGroup>
     <None Include="..\..\BlankProjectCPP.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{058CA895-544D-4361-A957-739C01DDEEDA}</UniqueIdentifier>
+      <UniqueIdentifier>{2E00774E-E89B-4766-AC73-247E37EE9259}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\Source\BlankProjectCPP.Target.cs">
-      <Filter>Source</Filter>
-    </None>
     <None Include="..\..\Source\BlankProjectCPPEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{348A00ED-2F39-4E09-BC92-A09142DD8B02}</UniqueIdentifier>
+      <UniqueIdentifier>{4720C1C8-8B11-4D28-898A-54170ADFBAB4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +20,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\BlankProjectCPP">
-      <UniqueIdentifier>{F7835818-8DC2-4407-969A-D4F07EF1ECA6}</UniqueIdentifier>
+      <UniqueIdentifier>{C85A9F23-57E0-4DBD-B830-1D086108AA2B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BlankProjectCPP\BlankProjectCPP.Build.cs">
       <Filter>Source\BlankProjectCPP</Filter>
