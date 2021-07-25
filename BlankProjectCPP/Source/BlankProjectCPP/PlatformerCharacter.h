@@ -3,6 +3,8 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Camera/CameraComponent.h"
+#include "Components/CapsuleComponent.h"
 #include "GameFramework/Character.h"
 #include "PlatformerCharacter.generated.h"
 
@@ -39,5 +41,13 @@ public:
 	// Clears jump flag when key is released.
 	UFUNCTION()
 		void StopJump();
+
+	UPROPERTY(VisibleAnywhere)
+		UCameraComponent* FPSCameraComponent;
+
+	// First-person mesh (arms), visible only to the owning player.
+	UPROPERTY(VisibleDefaultsOnly, Category = Mesh)
+		USkeletalMeshComponent* FPSMesh;
+
 
 };

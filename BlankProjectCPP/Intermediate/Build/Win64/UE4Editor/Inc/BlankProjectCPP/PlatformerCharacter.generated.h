@@ -13,8 +13,8 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define BLANKPROJECTCPP_PlatformerCharacter_generated_h
 
-#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_SPARSE_DATA
-#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_RPC_WRAPPERS \
+#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_SPARSE_DATA
+#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execStopJump); \
 	DECLARE_FUNCTION(execStartJump); \
@@ -22,7 +22,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	DECLARE_FUNCTION(execMoveForward);
 
 
-#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execStopJump); \
 	DECLARE_FUNCTION(execStartJump); \
@@ -30,7 +30,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	DECLARE_FUNCTION(execMoveForward);
 
 
-#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_INCLASS_NO_PURE_DECLS \
+#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPlatformerCharacter(); \
 	friend struct Z_Construct_UClass_APlatformerCharacter_Statics; \
@@ -39,7 +39,7 @@ public: \
 	DECLARE_SERIALIZER(APlatformerCharacter)
 
 
-#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_INCLASS \
+#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_INCLASS \
 private: \
 	static void StaticRegisterNativesAPlatformerCharacter(); \
 	friend struct Z_Construct_UClass_APlatformerCharacter_Statics; \
@@ -48,7 +48,7 @@ public: \
 	DECLARE_SERIALIZER(APlatformerCharacter)
 
 
-#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_STANDARD_CONSTRUCTORS \
+#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API APlatformerCharacter(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(APlatformerCharacter) \
@@ -61,7 +61,7 @@ private: \
 public:
 
 
-#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_ENHANCED_CONSTRUCTORS \
+#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API APlatformerCharacter(APlatformerCharacter&&); \
@@ -72,28 +72,28 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(APlatformerCharacter); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(APlatformerCharacter)
 
 
-#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_PRIVATE_PROPERTY_OFFSET
-#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_9_PROLOG
-#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_GENERATED_BODY_LEGACY \
+#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_PRIVATE_PROPERTY_OFFSET
+#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_11_PROLOG
+#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
-	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_SPARSE_DATA \
-	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_RPC_WRAPPERS \
-	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_INCLASS \
-	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_STANDARD_CONSTRUCTORS \
+	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_PRIVATE_PROPERTY_OFFSET \
+	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_SPARSE_DATA \
+	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_RPC_WRAPPERS \
+	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_INCLASS \
+	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_GENERATED_BODY \
+#define BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
-	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_SPARSE_DATA \
-	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_INCLASS_NO_PURE_DECLS \
-	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_12_ENHANCED_CONSTRUCTORS \
+	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_PRIVATE_PROPERTY_OFFSET \
+	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_SPARSE_DATA \
+	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_INCLASS_NO_PURE_DECLS \
+	BlankProjectCPP_Source_BlankProjectCPP_PlatformerCharacter_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
