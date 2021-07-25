@@ -13,6 +13,7 @@ class APlatformerCPPGameMode : public AGameModeBase
 
 public:
 	APlatformerCPPGameMode();
+	virtual void StartPlay() override;
 };
 
 

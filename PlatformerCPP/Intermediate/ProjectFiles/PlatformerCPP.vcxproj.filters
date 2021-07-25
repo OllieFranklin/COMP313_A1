@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\PlatformerCPP.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{63B94216-4E2C-4812-9A12-30C910EBF584}</UniqueIdentifier>
+      <UniqueIdentifier>{1CC1F56D-1391-4295-8D80-D3728646BFF4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\PlatformerCPP.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{4748DF99-7F53-4977-834C-8D5665D9B66E}</UniqueIdentifier>
+      <UniqueIdentifier>{579739D4-0396-40A4-ACF3-19EA21F9BA0C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,8 +30,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\PlatformerCPP">
-      <UniqueIdentifier>{8B146BB0-50E4-471A-A06C-F5BC3D23B62B}</UniqueIdentifier>
+      <UniqueIdentifier>{0FEAA40F-DCB4-4FE3-84A9-217F1EF7F524}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\PlatformerCPP\PlatformerCharacter.cpp">
+      <Filter>Source\PlatformerCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PlatformerCPP\PlatformerCharacter.h">
+      <Filter>Source\PlatformerCPP</Filter>
+    </ClInclude>
     <None Include="..\..\Source\PlatformerCPP\PlatformerCPP.Build.cs">
       <Filter>Source\PlatformerCPP</Filter>
     </None>
