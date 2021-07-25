@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BlankProjectCPP",
+			"Path": "C:\\Users\\Ollie\\OneDrive\\Documents\\swen\\comp313\\assignments\\assig1\\COMP313_A1\\BlankProjectCPP\\Source\\BlankProjectCPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BlankProjectCPPEditor",
+			"Path": "C:\\Users\\Ollie\\OneDrive\\Documents\\swen\\comp313\\assignments\\assig1\\COMP313_A1\\BlankProjectCPP\\Source\\BlankProjectCPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BlankProjectCPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{058CA895-544D-4361-A957-739C01DDEEDA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BlankProjectCPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BlankProjectCPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{348A00ED-2F39-4E09-BC92-A09142DD8B02}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BlankProjectCPP">
+      <UniqueIdentifier>{F7835818-8DC2-4407-969A-D4F07EF1ECA6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BlankProjectCPP\BlankProjectCPP.Build.cs">
+      <Filter>Source\BlankProjectCPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BlankProjectCPP\BlankProjectCPP.cpp">
+      <Filter>Source\BlankProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BlankProjectCPP\BlankProjectCPP.h">
+      <Filter>Source\BlankProjectCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BlankProjectCPP\BlankProjectCPPGameModeBase.cpp">
+      <Filter>Source\BlankProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BlankProjectCPP\BlankProjectCPPGameModeBase.h">
+      <Filter>Source\BlankProjectCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BlankProjectCPP\PlatformerCharacter.cpp">
+      <Filter>Source\BlankProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BlankProjectCPP\PlatformerCharacter.h">
+      <Filter>Source\BlankProjectCPP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
