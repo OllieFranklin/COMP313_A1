@@ -4101,3 +4101,804 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.25-05.04.47:716][171]LogSavePackage: Moving '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Saved/Level1BAB5AA8147C0D38EF51B8CAA4526E4A6.tmp' to '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Content/Level1.umap'
 [2021.07.25-05.04.47:749][171]AssetCheck: New page: Asset Save: Level1
 [2021.07.25-05.04.47:750][171]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2021.07.25-05.26.24:070][ 84]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.25-05.26.24:076][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.25-05.26.24:076][ 84]PIE: New page: PIE session: Level1 (26/07/2021, 5:26:24 am)
+[2021.07.25-05.26.24:077][ 84]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2021.07.25-05.26.24:083][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005687s)
+[2021.07.25-05.26.24:084][ 84]LogAIModule: Creating AISystem for world Level1
+[2021.07.25-05.26.24:085][ 84]LogPlayLevel: PIE: World Init took: (0.001709s)
+[2021.07.25-05.26.24:085][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.007603s)
+[2021.07.25-05.26.24:123][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.07.25-05.26.24:126][ 84]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2021.07.25-05.26.24:126][ 84]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.25-05.26.24:126][ 84]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.25-05.26.24:126][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.25-05.26.24:126][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.25-05.26.24:126][ 84]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.25-05.26.24:126][ 84]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.25-05.26.24:126][ 84]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.25-05.26.24:126][ 84]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.25-05.26.24:126][ 84]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.25-05.26.24:126][ 84]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.25-05.26.24:131][ 84]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.25-05.26.24:131][ 84]LogAudioMixer: Display: 1: FrontRight
+[2021.07.25-05.26.24:143][ 84]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2021.07.25-05.26.24:144][ 84]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.25-05.26.24:144][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.25-05.26.24:144][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.25-05.26.24:145][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.25-05.26.24:146][ 84]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.25-05.26.24:146][ 84]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.25-05.26.24:161][ 84]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.25-05.26.24:161][ 84]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.25-05.26.24:161][ 84]LogInit: FAudioDevice initialized.
+[2021.07.25-05.26.24:161][ 84]LogAudio: Display: Audio Device (ID: 40) registered with world 'Level1'.
+[2021.07.25-05.26.24:174][ 84]LogLoad: Game class is 'BP_BlankProjectCPPGameModeBase_C'
+[2021.07.25-05.26.24:176][ 84]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.07.25-17.26.24
+[2021.07.25-05.26.24:177][ 84]LogWorld: Bringing up level for play took: 0.001527
+[2021.07.25-05.26.24:177][ 84]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2021.07.25-05.26.24:179][ 84]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.07.25-05.26.24:182][ 84]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.07.25-05.26.24:182][ 84]PIE: Server logged in
+[2021.07.25-05.26.24:183][ 84]PIE: Play in editor total start time 0.108 seconds.
+[2021.07.25-05.26.41:212][313]LogNet: Browse: /Game/MenuLevel
+[2021.07.25-05.26.41:212][313]LogLoad: LoadMap: /Game/MenuLevel
+[2021.07.25-05.26.41:212][313]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2021.07.25-05.26.41:213][313]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-05.26.41:214][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-05.26.41:264][313]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.25-05.26.41:280][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.07.25-05.26.41:339][313]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuLevel
+[2021.07.25-05.26.41:341][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001454s)
+[2021.07.25-05.26.41:341][313]LogAIModule: Creating AISystem for world MenuLevel
+[2021.07.25-05.26.41:342][313]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2021.07.25-05.26.41:342][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuLevel.MenuLevel to /Game/UEDPIE_0_MenuLevel.MenuLevel (0.002705s)
+[2021.07.25-05.26.41:342][313]LogAudio: Display: Audio Device (ID: 40) registered with world 'MenuLevel'.
+[2021.07.25-05.26.41:342][313]LogLoad: Game class is 'BP_BlankProjectCPPGameModeBase_C'
+[2021.07.25-05.26.41:343][313]LogWorld: Bringing World /Game/UEDPIE_0_MenuLevel.MenuLevel up for play (max tick rate 60) at 2021.07.25-17.26.41
+[2021.07.25-05.26.41:343][313]LogWorld: Bringing up level for play took: 0.000322
+[2021.07.25-05.26.41:344][313]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.25-05.26.41:344][313]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.07.25-05.26.41:345][313]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.07.25-05.26.41:345][313]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.07.25-05.26.41:345][313]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.07.25-05.26.41:345][313]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.07.25-05.26.41:345][313]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.07.25-05.26.41:346][313]LogLoad: Took 0.133771 seconds to LoadMap(/Game/UEDPIE_0_MenuLevel)
+[2021.07.25-05.26.49:157][502]LogNet: Browse: /Game/Level1
+[2021.07.25-05.26.49:158][502]LogLoad: LoadMap: /Game/Level1
+[2021.07.25-05.26.49:158][502]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MenuLevel
+[2021.07.25-05.26.49:159][502]LogWorld: UWorld::CleanupWorld for MenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-05.26.49:159][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-05.26.49:223][502]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.25-05.26.49:235][502]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2021.07.25-05.26.49:240][502]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2021.07.25-05.26.49:260][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019974s)
+[2021.07.25-05.26.49:262][502]LogAIModule: Creating AISystem for world Level1
+[2021.07.25-05.26.49:262][502]LogPlayLevel: PIE: World Init took: (0.002384s)
+[2021.07.25-05.26.49:263][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.022815s)
+[2021.07.25-05.26.49:263][502]LogAudio: Display: Audio Device (ID: 40) registered with world 'Level1'.
+[2021.07.25-05.26.49:263][502]LogLoad: Game class is 'BP_BlankProjectCPPGameModeBase_C'
+[2021.07.25-05.26.49:267][502]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.07.25-17.26.49
+[2021.07.25-05.26.49:267][502]LogWorld: Bringing up level for play took: 0.001940
+[2021.07.25-05.26.49:269][502]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.07.25-05.26.49:275][502]LogLoad: Took 0.118080 seconds to LoadMap(/Game/UEDPIE_0_Level1)
+[2021.07.25-05.27.03:671][694]LogNet: Browse: /Game/Level1
+[2021.07.25-05.27.03:671][694]LogLoad: LoadMap: /Game/Level1
+[2021.07.25-05.27.03:671][694]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2021.07.25-05.27.03:672][694]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-05.27.03:673][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-05.27.03:740][694]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.25-05.27.03:755][694]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.07.25-05.27.03:757][694]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2021.07.25-05.27.03:775][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017862s)
+[2021.07.25-05.27.03:777][694]LogAIModule: Creating AISystem for world Level1
+[2021.07.25-05.27.03:778][694]LogPlayLevel: PIE: World Init took: (0.002364s)
+[2021.07.25-05.27.03:778][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.020631s)
+[2021.07.25-05.27.03:778][694]LogAudio: Display: Audio Device (ID: 40) registered with world 'Level1'.
+[2021.07.25-05.27.03:778][694]LogLoad: Game class is 'BP_BlankProjectCPPGameModeBase_C'
+[2021.07.25-05.27.03:782][694]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.07.25-17.27.03
+[2021.07.25-05.27.03:783][694]LogWorld: Bringing up level for play took: 0.002103
+[2021.07.25-05.27.03:785][694]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.07.25-05.27.03:791][694]LogLoad: Took 0.120474 seconds to LoadMap(/Game/UEDPIE_0_Level1)
+[2021.07.25-05.27.19:174][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.25-05.27.19:174][901]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2021.07.25-05.27.19:175][901]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-05.27.19:176][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-05.27.19:346][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.25-05.27.19:385][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-05.27.19:432][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.25-05.27.19:432][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.25-05.27.19:434][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.25-05.27.19:479][901]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.07.25-05.27.19:566][902]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2021.07.25-05.30.14:383][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.07.25-05.35.21:728][596]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.07.25-05.35.21:811][596]LogContentBrowser: Creating deferred item: NewFolder
+[2021.07.25-05.35.23:595][626]LogContentBrowser: Attempting asset rename: NewFolder -> Animatinos
+[2021.07.25-05.35.23:627][626]LogContentBrowser: End creating deferred item NewFolder
+[2021.07.25-05.35.28:993][716]LogContentBrowser: Attempting asset rename: Animatinos -> Animations
+[2021.07.25-05.35.37:683][870]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Ollie/Downloads/FPP_Animations/FPP_Idle.FBX)
+[2021.07.25-05.35.37:765][870]LogFbx: Loading FBX Scene from ../../../../../../Users/Ollie/Downloads/FPP_Animations/FPP_Idle.FBX
+[2021.07.25-05.35.37:801][870]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.25-05.35.50:893][870]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.07.25-05.35.50:935][870]LogFbx: SortedLinks :(0) b_Root
+[2021.07.25-05.35.50:935][870]LogFbx: SortedLinks :(1) b_LeftArm
+[2021.07.25-05.35.50:935][870]LogFbx: SortedLinks :(2) b_LeftArmRoll
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(3) b_LeftForeArm
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(4) b_LeftForeArmRoll
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(5) b_LeftHand
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(6) b_LeftHandIndex1
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(7) b_LeftHandIndex2
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(8) b_LeftHandIndex3
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(9) b_LeftHandMiddle1
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(10) b_LeftHandMiddle2
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(11) b_LeftHandMiddle3
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(12) b_LeftHandRing1
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(13) b_LeftHandRing2
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(14) b_LeftHandRing3
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(15) b_LeftHandPinky1
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(16) b_LeftHandPinky2
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(17) b_LeftHandPinky3
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(18) b_LeftHandThumb1
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(19) b_LeftHandThumb2
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(20) b_LeftHandThumb3
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(21) b_LeftWeapon
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(22) b_RightArm
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(23) b_RightArmRoll
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(24) b_RightForeArm
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(25) b_RightForeArmRoll
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(26) b_RightHand
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(27) b_RightHandIndex1
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(28) b_RightHandIndex2
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(29) b_RightHandIndex3
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(30) b_RightHandMiddle1
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(31) b_RightHandMiddle2
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(32) b_RightHandMiddle3
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(33) b_RightHandRing1
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(34) b_RightHandRing2
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(35) b_RightHandRing3
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(36) b_RightHandPinky1
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(37) b_RightHandPinky2
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(38) b_RightHandPinky3
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(39) b_RightHandThumb1
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(40) b_RightHandThumb2
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(41) b_RightHandThumb3
+[2021.07.25-05.35.50:936][870]LogFbx: SortedLinks :(42) b_RightWeapon
+[2021.07.25-05.35.50:940][870]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2021.07.25-05.35.51:294][870]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Idle.FPP_Idle
+[2021.07.25-05.35.51:295][870]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.07.25-05.35.51:295][870]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.07.25-05.35.51:308][870]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Idle.FPP_Idle
+[2021.07.25-05.35.51:308][870]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/Ollie/Downloads/FPP_Animations/FPP_JumpEnd.FBX)
+[2021.07.25-05.35.51:326][870]LogFbx: Loading FBX Scene from ../../../../../../Users/Ollie/Downloads/FPP_Animations/FPP_JumpEnd.FBX
+[2021.07.25-05.35.51:348][870]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(0) b_Root
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(1) b_LeftArm
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(2) b_LeftArmRoll
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(3) b_LeftForeArm
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(4) b_LeftForeArmRoll
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(5) b_LeftHand
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(6) b_LeftHandIndex1
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(7) b_LeftHandIndex2
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(8) b_LeftHandIndex3
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(9) b_LeftHandMiddle1
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(10) b_LeftHandMiddle2
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(11) b_LeftHandMiddle3
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(12) b_LeftHandRing1
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(13) b_LeftHandRing2
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(14) b_LeftHandRing3
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(15) b_LeftHandPinky1
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(16) b_LeftHandPinky2
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(17) b_LeftHandPinky3
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(18) b_LeftHandThumb1
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(19) b_LeftHandThumb2
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(20) b_LeftHandThumb3
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(21) b_LeftWeapon
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(22) b_RightArm
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(23) b_RightArmRoll
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(24) b_RightForeArm
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(25) b_RightForeArmRoll
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(26) b_RightHand
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(27) b_RightHandIndex1
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(28) b_RightHandIndex2
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(29) b_RightHandIndex3
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(30) b_RightHandMiddle1
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(31) b_RightHandMiddle2
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(32) b_RightHandMiddle3
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(33) b_RightHandRing1
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(34) b_RightHandRing2
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(35) b_RightHandRing3
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(36) b_RightHandPinky1
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(37) b_RightHandPinky2
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(38) b_RightHandPinky3
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(39) b_RightHandThumb1
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(40) b_RightHandThumb2
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(41) b_RightHandThumb3
+[2021.07.25-05.35.51:349][870]LogFbx: SortedLinks :(42) b_RightWeapon
+[2021.07.25-05.35.51:350][870]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2021.07.25-05.35.51:401][870]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.07.25-05.35.51:401][870]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.07.25-05.35.51:411][870]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/Ollie/Downloads/FPP_Animations/FPP_JumpLoop.FBX)
+[2021.07.25-05.35.51:422][870]LogFbx: Loading FBX Scene from ../../../../../../Users/Ollie/Downloads/FPP_Animations/FPP_JumpLoop.FBX
+[2021.07.25-05.35.51:441][870]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.25-05.35.51:442][870]LogFbx: SortedLinks :(0) b_Root
+[2021.07.25-05.35.51:442][870]LogFbx: SortedLinks :(1) b_LeftArm
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(2) b_LeftArmRoll
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(3) b_LeftForeArm
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(4) b_LeftForeArmRoll
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(5) b_LeftHand
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(6) b_LeftHandIndex1
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(7) b_LeftHandIndex2
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(8) b_LeftHandIndex3
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(9) b_LeftHandMiddle1
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(10) b_LeftHandMiddle2
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(11) b_LeftHandMiddle3
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(12) b_LeftHandRing1
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(13) b_LeftHandRing2
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(14) b_LeftHandRing3
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(15) b_LeftHandPinky1
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(16) b_LeftHandPinky2
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(17) b_LeftHandPinky3
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(18) b_LeftHandThumb1
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(19) b_LeftHandThumb2
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(20) b_LeftHandThumb3
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(21) b_LeftWeapon
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(22) b_RightArm
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(23) b_RightArmRoll
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(24) b_RightForeArm
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(25) b_RightForeArmRoll
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(26) b_RightHand
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(27) b_RightHandIndex1
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(28) b_RightHandIndex2
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(29) b_RightHandIndex3
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(30) b_RightHandMiddle1
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(31) b_RightHandMiddle2
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(32) b_RightHandMiddle3
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(33) b_RightHandRing1
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(34) b_RightHandRing2
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(35) b_RightHandRing3
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(36) b_RightHandPinky1
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(37) b_RightHandPinky2
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(38) b_RightHandPinky3
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(39) b_RightHandThumb1
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(40) b_RightHandThumb2
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(41) b_RightHandThumb3
+[2021.07.25-05.35.51:443][870]LogFbx: SortedLinks :(42) b_RightWeapon
+[2021.07.25-05.35.51:444][870]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2021.07.25-05.35.51:538][870]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.07.25-05.35.51:538][870]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.07.25-05.35.51:547][870]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/Ollie/Downloads/FPP_Animations/FPP_JumpStart.FBX)
+[2021.07.25-05.35.51:560][870]LogFbx: Loading FBX Scene from ../../../../../../Users/Ollie/Downloads/FPP_Animations/FPP_JumpStart.FBX
+[2021.07.25-05.35.51:579][870]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(0) b_Root
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(1) b_LeftArm
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(2) b_LeftArmRoll
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(3) b_LeftForeArm
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(4) b_LeftForeArmRoll
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(5) b_LeftHand
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(6) b_LeftHandIndex1
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(7) b_LeftHandIndex2
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(8) b_LeftHandIndex3
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(9) b_LeftHandMiddle1
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(10) b_LeftHandMiddle2
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(11) b_LeftHandMiddle3
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(12) b_LeftHandRing1
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(13) b_LeftHandRing2
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(14) b_LeftHandRing3
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(15) b_LeftHandPinky1
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(16) b_LeftHandPinky2
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(17) b_LeftHandPinky3
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(18) b_LeftHandThumb1
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(19) b_LeftHandThumb2
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(20) b_LeftHandThumb3
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(21) b_LeftWeapon
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(22) b_RightArm
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(23) b_RightArmRoll
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(24) b_RightForeArm
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(25) b_RightForeArmRoll
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(26) b_RightHand
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(27) b_RightHandIndex1
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(28) b_RightHandIndex2
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(29) b_RightHandIndex3
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(30) b_RightHandMiddle1
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(31) b_RightHandMiddle2
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(32) b_RightHandMiddle3
+[2021.07.25-05.35.51:580][870]LogFbx: SortedLinks :(33) b_RightHandRing1
+[2021.07.25-05.35.51:581][870]LogFbx: SortedLinks :(34) b_RightHandRing2
+[2021.07.25-05.35.51:581][870]LogFbx: SortedLinks :(35) b_RightHandRing3
+[2021.07.25-05.35.51:581][870]LogFbx: SortedLinks :(36) b_RightHandPinky1
+[2021.07.25-05.35.51:581][870]LogFbx: SortedLinks :(37) b_RightHandPinky2
+[2021.07.25-05.35.51:581][870]LogFbx: SortedLinks :(38) b_RightHandPinky3
+[2021.07.25-05.35.51:581][870]LogFbx: SortedLinks :(39) b_RightHandThumb1
+[2021.07.25-05.35.51:581][870]LogFbx: SortedLinks :(40) b_RightHandThumb2
+[2021.07.25-05.35.51:581][870]LogFbx: SortedLinks :(41) b_RightHandThumb3
+[2021.07.25-05.35.51:581][870]LogFbx: SortedLinks :(42) b_RightWeapon
+[2021.07.25-05.35.51:581][870]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2021.07.25-05.35.51:620][870]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.07.25-05.35.51:620][870]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.07.25-05.35.51:631][870]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/Ollie/Downloads/FPP_Animations/FPP_Run.FBX)
+[2021.07.25-05.35.51:641][870]LogFbx: Loading FBX Scene from ../../../../../../Users/Ollie/Downloads/FPP_Animations/FPP_Run.FBX
+[2021.07.25-05.35.51:660][870]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.25-05.35.51:661][870]LogFbx: SortedLinks :(0) b_Root
+[2021.07.25-05.35.51:661][870]LogFbx: SortedLinks :(1) b_LeftArm
+[2021.07.25-05.35.51:661][870]LogFbx: SortedLinks :(2) b_LeftArmRoll
+[2021.07.25-05.35.51:661][870]LogFbx: SortedLinks :(3) b_LeftForeArm
+[2021.07.25-05.35.51:661][870]LogFbx: SortedLinks :(4) b_LeftForeArmRoll
+[2021.07.25-05.35.51:661][870]LogFbx: SortedLinks :(5) b_LeftHand
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(6) b_LeftHandIndex1
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(7) b_LeftHandIndex2
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(8) b_LeftHandIndex3
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(9) b_LeftHandMiddle1
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(10) b_LeftHandMiddle2
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(11) b_LeftHandMiddle3
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(12) b_LeftHandRing1
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(13) b_LeftHandRing2
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(14) b_LeftHandRing3
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(15) b_LeftHandPinky1
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(16) b_LeftHandPinky2
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(17) b_LeftHandPinky3
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(18) b_LeftHandThumb1
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(19) b_LeftHandThumb2
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(20) b_LeftHandThumb3
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(21) b_LeftWeapon
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(22) b_RightArm
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(23) b_RightArmRoll
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(24) b_RightForeArm
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(25) b_RightForeArmRoll
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(26) b_RightHand
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(27) b_RightHandIndex1
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(28) b_RightHandIndex2
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(29) b_RightHandIndex3
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(30) b_RightHandMiddle1
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(31) b_RightHandMiddle2
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(32) b_RightHandMiddle3
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(33) b_RightHandRing1
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(34) b_RightHandRing2
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(35) b_RightHandRing3
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(36) b_RightHandPinky1
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(37) b_RightHandPinky2
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(38) b_RightHandPinky3
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(39) b_RightHandThumb1
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(40) b_RightHandThumb2
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(41) b_RightHandThumb3
+[2021.07.25-05.35.51:662][870]LogFbx: SortedLinks :(42) b_RightWeapon
+[2021.07.25-05.35.51:663][870]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2021.07.25-05.35.51:726][870]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.07.25-05.35.51:727][870]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(Mesh2P) Actor(FirstPersonCharacter_C_0)
+[2021.07.25-05.35.51:822][871]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Run.FPP_Run
+[2021.07.25-05.35.51:822][871]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_JumpStart.FPP_JumpStart
+[2021.07.25-05.35.51:850][872]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_JumpLoop.FPP_JumpLoop
+[2021.07.25-05.35.51:850][872]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_JumpEnd.FPP_JumpEnd
+[2021.07.25-05.35.59:777][233]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2021.07.25-05.36.01:511][233]LogSlate: Window 'Save Content' being destroyed
+[2021.07.25-05.36.01:652][233]LogSavePackage: Moving '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Saved/FPP_Idle89D3FFEB4DBF7CDD4054BA8A8F673695.tmp' to '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Content/Animations/FPP_Idle.uasset'
+[2021.07.25-05.36.01:713][233]LogSavePackage: Moving '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Saved/FPP_JumpEnd2A89756348FD964396D861B4096E0414.tmp' to '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Content/Animations/FPP_JumpEnd.uasset'
+[2021.07.25-05.36.01:758][233]LogSavePackage: Moving '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Saved/FPP_JumpLoop479A8C2842424D3179A827B99F11CEE0.tmp' to '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Content/Animations/FPP_JumpLoop.uasset'
+[2021.07.25-05.36.01:809][233]LogSavePackage: Moving '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Saved/FPP_JumpStartB4B6C7CC4BD745BB1477ABA94EB88C87.tmp' to '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Content/Animations/FPP_JumpStart.uasset'
+[2021.07.25-05.36.01:859][233]LogSavePackage: Moving '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Saved/FPP_Run8509B1F74EC12299357E5CB60AB90D14.tmp' to '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Content/Animations/FPP_Run.uasset'
+[2021.07.25-05.36.01:883][233]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.25-05.36.01:884][233]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_Run.FPP_Run
+[2021.07.25-05.36.01:884][233]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_JumpStart.FPP_JumpStart
+[2021.07.25-05.36.01:884][233]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_JumpLoop.FPP_JumpLoop
+[2021.07.25-05.36.01:884][233]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_JumpEnd.FPP_JumpEnd
+[2021.07.25-05.36.01:884][233]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_Idle.FPP_Idle
+[2021.07.25-05.36.54:831][101]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.25-05.36.54:897][101]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.07.25-05.37.02:207][101]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.07.25-05.37.16:388][101]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.07.25-05.37.32:009][101]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2021.07.25-05.37.32:052][101]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2021.07.25-05.37.32:066][101]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2021.07.25-05.37.54:567][509]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> BP_ArmsAnimation
+[2021.07.25-05.37.54:663][509]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2021.07.25-05.37.57:474][541]LogUObjectHash: Compacting FUObjectHashTables data took   8.61ms
+[2021.07.25-05.37.58:844][541]LogSlate: Window 'Save Content' being destroyed
+[2021.07.25-05.37.58:960][541]LogSavePackage: Moving '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Saved/BP_ArmsAnimation0BFAE59846A62FCA923C79B46D71DCED.tmp' to '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Content/Animations/BP_ArmsAnimation.uasset'
+[2021.07.25-05.37.58:985][541]AssetCheck: New page: Asset Save: BP_ArmsAnimation
+[2021.07.25-05.37.58:985][541]LogContentValidation: Display: Validating AnimBlueprint /Game/Animations/BP_ArmsAnimation.BP_ArmsAnimation
+[2021.07.25-05.38.02:644][658]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animations/BP_ArmsAnimation.BP_ArmsAnimation
+[2021.07.25-05.38.02:776][658]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0046 seconds. Added 1 classes and 2 folders.
+[2021.07.25-05.38.03:222][658]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.25-05.38.03:240][658]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0024 seconds. Added 1 classes and 0 folders.
+[2021.07.25-05.48.17:358][962]BlueprintLog: New page: Compile BP_ArmsAnimation
+[2021.07.25-05.48.17:405][962]LogBlueprint: Warning: [AssetLog] C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\BlankProjectCPP\Content\Animations\BP_ArmsAnimation.uasset: [Compiler] Entry node  ArmsStateMachine  is not connected to state
+[2021.07.25-05.48.17:406][962]LogBlueprint: Warning: [AssetLog] C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\BlankProjectCPP\Content\Animations\BP_ArmsAnimation.uasset: [Compiler] There was no entry state connection in  ArmsStateMachine
+[2021.07.25-05.48.17:718][962]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.07.25-05.48.21:139][ 53]BlueprintLog: New page: Compile BP_ArmsAnimation
+[2021.07.25-05.48.21:182][ 53]LogBlueprint: Warning: [AssetLog] C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\BlankProjectCPP\Content\Animations\BP_ArmsAnimation.uasset: [Compiler] Entry node  ArmsStateMachine  is not connected to state
+[2021.07.25-05.48.21:183][ 53]LogBlueprint: Warning: [AssetLog] C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\BlankProjectCPP\Content\Animations\BP_ArmsAnimation.uasset: [Compiler] There was no entry state connection in  ArmsStateMachine
+[2021.07.25-05.48.21:355][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.07.25-05.48.31:679][337]BlueprintLog: New page: Compile BP_ArmsAnimation
+[2021.07.25-05.48.31:803][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.07.25-05.48.49:478][831]BlueprintLog: New page: Compile BP_ArmsAnimation
+[2021.07.25-05.48.49:593][831]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.07.25-05.48.50:428][843]LogSavePackage: Moving '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Saved/BP_ArmsAnimation68FB7717439B4209976F0DA6AA5599FE.tmp' to '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Content/Animations/BP_ArmsAnimation.uasset'
+[2021.07.25-05.48.50:450][843]AssetCheck: New page: Asset Save: BP_ArmsAnimation
+[2021.07.25-05.48.50:450][843]LogContentValidation: Display: Validating AnimBlueprint /Game/Animations/BP_ArmsAnimation.BP_ArmsAnimation
+[2021.07.25-05.49.29:532][962]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/CharacterMeshes/ThirdPersonMesh/GenericMale.GenericMale
+[2021.07.25-05.49.29:570][962]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.25-05.49.33:929][ 21]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/CharacterMeshes/ThirdPersonMesh/GenericMale_Skeleton.GenericMale_Skeleton
+[2021.07.25-05.49.33:932][ 21]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.25-05.52.13:725][726]LogSavePackage: Moving '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Saved/BP_PlatformerCharacter19600625428FEB41C39E779854ABD076.tmp' to '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Content/BP_PlatformerCharacter.uasset'
+[2021.07.25-05.52.13:811][726]AssetCheck: New page: Asset Save: BP_PlatformerCharacter
+[2021.07.25-05.52.13:811][726]LogContentValidation: Display: Validating Blueprint /Game/BP_PlatformerCharacter.BP_PlatformerCharacter
+[2021.07.25-05.52.15:900][782]BlueprintLog: New page: Compile BP_PlatformerCharacter
+[2021.07.25-05.52.17:280][782]LogUObjectHash: Compacting FUObjectHashTables data took  15.40ms
+[2021.07.25-05.52.19:458][822]LogSavePackage: Moving '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Saved/BP_PlatformerCharacterEF6EB9544BD1A59054A55283982E171F.tmp' to '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Content/BP_PlatformerCharacter.uasset'
+[2021.07.25-05.52.19:529][822]AssetCheck: New page: Asset Save: BP_PlatformerCharacter
+[2021.07.25-05.52.19:530][822]LogContentValidation: Display: Validating Blueprint /Game/BP_PlatformerCharacter.BP_PlatformerCharacter
+[2021.07.25-05.52.25:821][941]Candidate modules for hot reload:
+[2021.07.25-05.52.25:821][941]  BlankProjectCPP
+[2021.07.25-05.52.25:824][941]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BlankProjectCPP,2382 BlankProjectCPPEditor Win64 Development -Project="C:/Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/BlankProjectCPP.uproject" "C:/Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/BlankProjectCPP.uproject"  -IgnoreJunk]
+[2021.07.25-05.52.25:840][941]Warning: Starting HotReload took  0.4s.
+[2021.07.25-05.53.03:669][ 69]LogUObjectHash: Compacting FUObjectHashTables data took  10.86ms
+[2021.07.25-05.53.03:840][ 69]LogSavePackage: Moving '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Saved/Level1_Auto293A80C5D48342812222E1CB1CD06E724.tmp' to '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Saved/Autosaves/Game/Level1_Auto2.umap'
+[2021.07.25-05.53.03:846][ 69]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.308
+[2021.07.25-05.53.03:846][ 69]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.308
+[2021.07.25-05.53.22:269][130]CompilerResultsLog: New page: Compilation - 26/07/2021, 5:53:22 am
+[2021.07.25-05.53.22:270][130]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1).
+[2021.07.25-05.53.22:270][130]CompilerResultsLog: Building BlankProjectCPPEditor...
+[2021.07.25-05.53.22:270][130]CompilerResultsLog: Using Visual Studio 2019 14.29.30040 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.25-05.53.22:271][130]CompilerResultsLog: Building 4 actions with 8 processes...
+[2021.07.25-05.53.22:271][130]CompilerResultsLog:   [1/4] PlatformerCharacter.cpp
+[2021.07.25-05.53.22:271][130]CompilerResultsLog:   [2/4] UE4Editor-BlankProjectCPP-2382.lib
+[2021.07.25-05.53.22:271][130]CompilerResultsLog:      Creating library C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\BlankProjectCPP\Intermediate\Build\Win64\UE4Editor\Development\BlankProjectCPP\UE4Editor-BlankProjectCPP-2382.lib and object C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\BlankProjectCPP\Intermediate\Build\Win64\UE4Editor\Development\BlankProjectCPP\UE4Editor-BlankProjectCPP-2382.exp
+[2021.07.25-05.53.22:271][130]CompilerResultsLog:   [3/4] UE4Editor-BlankProjectCPP-2382.dll
+[2021.07.25-05.53.22:271][130]CompilerResultsLog:      Creating library C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\BlankProjectCPP\Intermediate\Build\Win64\UE4Editor\Development\BlankProjectCPP\UE4Editor-BlankProjectCPP-2382.suppressed.lib and object C:\Users\Ollie\OneDrive\Documents\swen\comp313\assignments\assig1\COMP313_A1\BlankProjectCPP\Intermediate\Build\Win64\UE4Editor\Development\BlankProjectCPP\UE4Editor-BlankProjectCPP-2382.suppressed.exp
+[2021.07.25-05.53.22:271][130]CompilerResultsLog:   [4/4] BlankProjectCPPEditor.target
+[2021.07.25-05.53.22:271][130]CompilerResultsLog: Total time in Parallel executor: 50.67 seconds
+[2021.07.25-05.53.22:271][130]CompilerResultsLog: Total execution time: 55.47 seconds
+[2021.07.25-05.53.22:272][130]LogMainFrame: MainFrame: Module compiling took 56.575 seconds
+[2021.07.25-05.53.22:593][130]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlankProjectCPP' in 0.0012 seconds. Added 2 classes and 2 folders.
+[2021.07.25-05.53.22:607][130]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2021.07.25-05.53.23:025][130]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0391 seconds. Added 3604 classes and 863 folders.
+[2021.07.25-05.53.23:049][130]Display: HotReload took 57.6s.
+[2021.07.25-05.55.15:511][493]LogUObjectHash: Compacting FUObjectHashTables data took  17.68ms
+[2021.07.25-05.55.17:417][493]LogSlate: Window 'Save Content' being destroyed
+[2021.07.25-05.55.17:717][493]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.07.25-05.55.17:800][493]LogSavePackage: Moving '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Saved/Level1DAE8F8924F96B7280D03498A0E4BDBE6.tmp' to '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Content/Level1.umap'
+[2021.07.25-05.55.17:819][493]LogFileHelpers: Saving map 'Level1' took 0.279
+[2021.07.25-05.55.17:858][493]AssetCheck: New page: Asset Save: Level1
+[2021.07.25-05.55.17:858][493]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2021.07.25-05.55.52:280][110]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/CharacterMeshes/ThirdPersonMesh/GenericMale_PhysicsAsset.GenericMale_PhysicsAsset
+[2021.07.25-05.55.52:791][110]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0010 seconds. Added 8 classes and 3 folders.
+[2021.07.25-05.55.52:900][110]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.07.25-05.59.36:978][772]LogSlate: Window 'Content Browser' being destroyed
+[2021.07.25-05.59.51:251][162]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/FPP_Idle.FPP_Idle
+[2021.07.25-05.59.51:319][162]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.25-05.59.54:431][162]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.07.25-06.00.09:277][363]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/FPP_Run.FPP_Run
+[2021.07.25-06.00.10:025][363]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.00.10:034][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.00.30:776][641]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/FPP_JumpStart.FPP_JumpStart
+[2021.07.25-06.00.31:160][641]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.00.31:161][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.00.34:475][677]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.00.34:476][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.00.37:695][697]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.25-06.00.37:695][697]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.00.37:697][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.00.56:534][963]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.00.56:534][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.00.58:557][986]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.25-06.00.58:557][986]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.00.58:558][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.01.00:754][  5]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.01.00:754][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.01.00:839][  5]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.01.00:839][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.01.02:633][  5]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.01.02:633][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.01.03:760][ 30]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.01.03:760][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.01.04:992][ 66]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.01.04:992][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.01.05:854][ 92]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.01.05:855][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.01.07:014][121]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.01.07:015][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.01.07:053][121]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.01.07:053][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.01.07:198][121]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.01.07:198][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.01.09:399][192]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.25-06.01.09:400][192]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.01.09:400][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.01.44:694][425]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.25-06.01.44:792][425]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.07.25-06.01.47:996][425]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.07.25-06.01.52:839][425]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2021.07.25-06.01.52:893][425]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2021.07.25-06.01.52:978][425]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2021.07.25-06.02.07:626][584]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> BP_FirstPersonAnimation
+[2021.07.25-06.02.07:710][584]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2021.07.25-06.02.10:552][610]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animations/BP_FirstPersonAnimation.BP_FirstPersonAnimation
+[2021.07.25-06.02.10:601][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.25-06.02.21:685][724]LogSlate: Window 'BP_FirstPersonAnimation' being destroyed
+[2021.07.25-06.02.24:408][769]LogSavePackage: Moving '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Saved/BP_FirstPersonAnimation1D3CC41C4E5A64D20556B29AB48AF374.tmp' to '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Content/Animations/BP_FirstPersonAnimation.uasset'
+[2021.07.25-06.02.24:540][769]AssetCheck: New page: Asset Save: BP_FirstPersonAnimation
+[2021.07.25-06.02.24:540][769]LogContentValidation: Display: Validating AnimBlueprint /Game/Animations/BP_FirstPersonAnimation.BP_FirstPersonAnimation
+[2021.07.25-06.04.47:698][329]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2021.07.25-06.04.47:698][329]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Content/Developers/Ollie/Collections/' because it could not be accessed. Aborting watch request...
+[2021.07.25-06.04.48:029][330]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.07.25-06.05.38:295][580]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.07.25-06.05.38:408][580]LogContentBrowser: Creating deferred item: NewFolder
+[2021.07.25-06.05.39:787][592]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2021.07.25-06.05.39:790][592]LogContentBrowser: End creating deferred item NewFolder
+[2021.07.25-06.06.26:209][391]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2021.07.25-06.06.26:209][391]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2021.07.25-06.06.26:260][391]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/AnimStarterPack/BS_Jog.BS_Jog
+[2021.07.25-06.06.27:482][391]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2021.07.25-06.06.27:482][391]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (DXT1, 512X512)
+[2021.07.25-06.06.27:482][391]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (DXT1, 512X512)
+[2021.07.25-06.06.27:482][391]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2021.07.25-06.06.27:482][391]LogTexture: Display: Building textures: T_ML_Aluminum01 (DXT1, 512X512)
+[2021.07.25-06.06.27:482][391]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2021.07.25-06.06.27:482][391]LogTexture: Display: Building textures: UE4_Mannequin__normals (BC5, 2048X2048)
+[2021.07.25-06.06.27:482][391]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2021.07.25-06.06.27:482][391]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.07.25-06.06.28:047][391]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 70
+[2021.07.25-06.06.28:047][391]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 60
+[2021.07.25-06.06.28:047][391]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2021.07.25-06.06.28:047][391]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2021.07.25-06.06.28:047][391]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2021.07.25-06.06.28:288][391]LogSkeletalMesh: Built Skeletal Mesh [0.24s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2021.07.25-06.06.28:310][391]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.07.25-06.06.28:440][391]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.25-06.06.29:644][391]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2021.07.25-06.06.29:644][391]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2021.07.25-06.06.30:000][391]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.07.25-06.06.35:833][438]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.06.35:834][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.06.36:368][438]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.06.36:368][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.06.48:177][534]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_To_Prone.Stand_To_Prone
+[2021.07.25-06.06.48:385][534]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Stand_To_Prone.Stand_To_Prone
+[2021.07.25-06.06.48:398][534]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.25-06.06.50:280][534]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.07.25-06.06.54:896][579]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.06.54:896][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.06.55:061][579]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.06.55:061][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.06.55:417][579]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.06.55:417][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.06.57:656][609]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 100
+[2021.07.25-06.07.00:246][624]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 90
+[2021.07.25-06.07.02:868][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 80
+[2021.07.25-06.07.02:869][629]LogUObjectHash: Compacting FUObjectHashTables data took  53.34ms
+[2021.07.25-06.07.03:269][629]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2021.07.25-06.07.03:269][629]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2021.07.25-06.07.03:269][629]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2021.07.25-06.07.03:269][629]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2021.07.25-06.07.03:269][629]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2021.07.25-06.07.03:269][629]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2021.07.25-06.07.03:269][629]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X256)
+[2021.07.25-06.07.03:269][629]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2021.07.25-06.07.03:269][629]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 64X32)
+[2021.07.25-06.07.03:269][629]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights
+[2021.07.25-06.07.03:348][629]LogActorComponent: RegisterComponentWithWorld: (/Game/AnimStarterPack/Showcase.Showcase:PersistentLevel.WorldSettings.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.07.25-06.07.03:389][629]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AnimStarterPack/Showcase.Showcase
+[2021.07.25-06.07.03:394][629]LightingResults: New page: Lighting Build
+[2021.07.25-06.07.03:397][629]LoadErrors: New page: Loading map: Showcase.umap
+[2021.07.25-06.07.03:486][629]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.07.03:494][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.07.03:496][629]MapCheck: New page: Map Check
+[2021.07.25-06.07.03:496][629]LightingResults: New page: Lighting Build
+[2021.07.25-06.07.03:597][629]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.25-06.07.04:327][629]LogUObjectHash: Compacting FUObjectHashTables data took  19.43ms
+[2021.07.25-06.07.04:458][629]LogUObjectHash: Compacting FUObjectHashTables data took  10.68ms
+[2021.07.25-06.07.04:531][629]LogUObjectHash: Compacting FUObjectHashTables data took   9.66ms
+[2021.07.25-06.07.04:533][629]LogAudio: Display: Audio Device (ID: 1) registered with world 'Showcase'.
+[2021.07.25-06.07.05:045][629]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.25-06.07.05:047][629]LogAIModule: Creating AISystem for world Showcase
+[2021.07.25-06.07.05:149][629]LogUObjectHash: Compacting FUObjectHashTables data took  12.96ms
+[2021.07.25-06.07.05:169][629]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.25-06.07.05:171][629]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.244ms to complete.
+[2021.07.25-06.07.05:171][629]LogFileHelpers: Loading map 'Showcase' took 1.781
+[2021.07.25-06.07.05:423][630]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2021.07.25-06.07.05:423][630]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2021.07.25-06.07.05:694][632]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1
+[2021.07.25-06.07.05:957][632]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 70
+[2021.07.25-06.07.06:733][632]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2021.07.25-06.07.06:733][632]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_3.Hit_React_3
+[2021.07.25-06.07.07:243][637]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Hip.Reload_Rifle_Hip
+[2021.07.25-06.07.07:754][640]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_2.Hit_React_2
+[2021.07.25-06.07.08:066][642]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2021.07.25-06.07.08:066][642]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break2.Idle_Rifle_Hip_Break2
+[2021.07.25-06.07.08:886][645]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights
+[2021.07.25-06.07.33:397][804]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2021.07.25-06.07.34:987][815]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2021.07.25-06.07.37:373][831]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2021.07.25-06.07.49:307][908]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2021.07.25-06.08.07:325][ 31]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2021.07.25-06.08.08:280][ 38]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.07.25-06.08.10:219][ 52]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.25-06.08.10:319][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.25-06.08.10:323][ 52]PIE: New page: PIE session: Showcase (26/07/2021, 6:08:10 am)
+[2021.07.25-06.08.10:333][ 52]LogPlayLevel: Creating play world package: /Game/AnimStarterPack/UEDPIE_0_Showcase
+[2021.07.25-06.08.10:443][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.107397s)
+[2021.07.25-06.08.10:452][ 52]LogAIModule: Creating AISystem for world Showcase
+[2021.07.25-06.08.10:461][ 52]LogPlayLevel: PIE: World Init took: (0.017743s)
+[2021.07.25-06.08.10:464][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AnimStarterPack/Showcase.Showcase to /Game/AnimStarterPack/UEDPIE_0_Showcase.Showcase (0.130966s)
+[2021.07.25-06.08.10:575][ 52]LogUObjectHash: Compacting FUObjectHashTables data took  12.17ms
+[2021.07.25-06.08.10:611][ 52]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2021.07.25-06.08.10:615][ 52]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.25-06.08.10:615][ 52]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.25-06.08.10:615][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.25-06.08.10:615][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.25-06.08.10:615][ 52]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.25-06.08.10:615][ 52]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.25-06.08.10:615][ 52]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.25-06.08.10:616][ 52]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.25-06.08.10:623][ 52]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.25-06.08.10:623][ 52]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.25-06.08.10:664][ 52]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.25-06.08.10:664][ 52]LogAudioMixer: Display: 1: FrontRight
+[2021.07.25-06.08.10:725][ 52]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2021.07.25-06.08.10:733][ 52]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.25-06.08.10:733][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.25-06.08.10:734][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.25-06.08.10:737][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.25-06.08.10:738][ 52]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.25-06.08.10:738][ 52]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.25-06.08.10:842][ 52]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.25-06.08.10:842][ 52]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.25-06.08.10:842][ 52]LogInit: FAudioDevice initialized.
+[2021.07.25-06.08.10:842][ 52]LogAudio: Display: Audio Device (ID: 41) registered with world 'Showcase'.
+[2021.07.25-06.08.10:946][ 52]LogLoad: Game class is 'BP_BlankProjectCPPGameModeBase_C'
+[2021.07.25-06.08.10:982][ 52]LogWorld: Bringing World /Game/AnimStarterPack/UEDPIE_0_Showcase.Showcase up for play (max tick rate 60) at 2021.07.25-18.08.10
+[2021.07.25-06.08.10:992][ 52]LogWorld: Bringing up level for play took: 0.043851
+[2021.07.25-06.08.11:000][ 52]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2021.07.25-06.08.11:040][ 52]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.07.25-06.08.11:083][ 52]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.07.25-06.08.11:087][ 52]PIE: Server logged in
+[2021.07.25-06.08.11:090][ 52]PIE: Play in editor total start time 0.812 seconds.
+[2021.07.25-06.08.13:529][ 69]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.07.25-06.08.24:316][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.25-06.08.24:316][193]LogWorld: BeginTearingDown for /Game/AnimStarterPack/UEDPIE_0_Showcase
+[2021.07.25-06.08.24:320][193]LogWorld: UWorld::CleanupWorld for Showcase, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.08.24:328][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.08.24:542][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.25-06.08.24:567][193]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.07.25-06.08.24:567][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.08.24:626][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.25-06.08.24:635][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.25-06.08.24:640][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.25-06.08.24:756][193]LogUObjectHash: Compacting FUObjectHashTables data took   8.57ms
+[2021.07.25-06.08.24:871][194]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2021.07.25-06.08.25:620][201]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.07.25-06.08.27:201][215]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.07.25-06.08.27:986][220]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume1)
+[2021.07.25-06.08.28:797][221]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.07.25-06.08.29:656][230]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.25-06.08.33:839][263]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.07.25-06.08.57:991][436]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Shere)
+[2021.07.25-06.09.03:366][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.25-06.09.03:367][473]PIE: New page: SIE session: Showcase (26/07/2021, 6:09:03 am)
+[2021.07.25-06.09.03:368][473]LogPlayLevel: Creating play world package: /Game/AnimStarterPack/UEDPIE_0_Showcase
+[2021.07.25-06.09.03:408][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038717s)
+[2021.07.25-06.09.03:410][473]LogAIModule: Creating AISystem for world Showcase
+[2021.07.25-06.09.03:410][473]LogPlayLevel: PIE: World Init took: (0.002063s)
+[2021.07.25-06.09.03:410][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AnimStarterPack/Showcase.Showcase to /Game/AnimStarterPack/UEDPIE_0_Showcase.Showcase (0.041493s)
+[2021.07.25-06.09.03:487][473]LogUObjectHash: Compacting FUObjectHashTables data took  10.22ms
+[2021.07.25-06.09.03:498][473]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2021.07.25-06.09.03:498][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.25-06.09.03:498][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.25-06.09.03:499][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.25-06.09.03:499][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.25-06.09.03:499][473]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.25-06.09.03:499][473]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.25-06.09.03:499][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.25-06.09.03:499][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.25-06.09.03:500][473]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.25-06.09.03:500][473]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.25-06.09.03:526][473]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.25-06.09.03:526][473]LogAudioMixer: Display: 1: FrontRight
+[2021.07.25-06.09.03:599][473]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2021.07.25-06.09.03:601][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.25-06.09.03:601][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.25-06.09.03:601][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.25-06.09.03:607][473]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.25-06.09.03:607][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.25-06.09.03:607][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.25-06.09.03:722][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.25-06.09.03:723][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.25-06.09.03:723][473]LogInit: FAudioDevice initialized.
+[2021.07.25-06.09.03:723][473]LogAudio: Display: Audio Device (ID: 42) registered with world 'Showcase'.
+[2021.07.25-06.09.03:760][473]LogLoad: Game class is 'BP_BlankProjectCPPGameModeBase_C'
+[2021.07.25-06.09.03:803][473]LogWorld: Bringing World /Game/AnimStarterPack/UEDPIE_0_Showcase.Showcase up for play (max tick rate 60) at 2021.07.25-18.09.03
+[2021.07.25-06.09.03:811][473]LogWorld: Bringing up level for play took: 0.045349
+[2021.07.25-06.09.03:812][473]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2021.07.25-06.09.03:819][473]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.25-06.09.03:820][473]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.07.25-06.09.03:826][473]PIE: Server logged in
+[2021.07.25-06.09.03:830][473]PIE: Play in editor total start time 0.467 seconds.
+[2021.07.25-06.09.42:399][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.25-06.09.42:400][745]LogWorld: BeginTearingDown for /Game/AnimStarterPack/UEDPIE_0_Showcase
+[2021.07.25-06.09.42:401][745]LogWorld: UWorld::CleanupWorld for Showcase, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.09.42:411][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.09.42:525][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.25-06.09.42:575][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.09.42:629][745]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.25-06.09.42:630][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.25-06.09.42:633][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.25-06.09.42:743][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.25-06.09.42:763][745]LogUObjectHash: Compacting FUObjectHashTables data took  13.78ms
+[2021.07.25-06.09.43:056][746]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2021.07.25-06.12.20:556][468]LogUObjectHash: Compacting FUObjectHashTables data took  17.12ms
+[2021.07.25-06.12.22:034][468]LogSlate: Window 'Save Content' being destroyed
+[2021.07.25-06.12.22:277][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.07.25-06.12.22:446][468]LogSavePackage: Moving '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Saved/ShowcaseCA8623594CBBF2BB2DD2C192E42DA9A7.tmp' to '../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Content/AnimStarterPack/Showcase.umap'
+[2021.07.25-06.12.22:491][468]LogFileHelpers: Saving map 'Showcase' took 0.290
+[2021.07.25-06.12.22:512][468]Cmd: MAP LOAD FILE="../../../../../../Users/Ollie/OneDrive/Documents/swen/comp313/assignments/assig1/COMP313_A1/BlankProjectCPP/Content/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.25-06.12.22:576][468]LightingResults: New page: Lighting Build
+[2021.07.25-06.12.22:576][468]LoadErrors: New page: Loading map: Level1.umap
+[2021.07.25-06.12.22:586][468]LogWorld: UWorld::CleanupWorld for Showcase, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.12.22:586][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.12.22:587][468]MapCheck: New page: Map Check
+[2021.07.25-06.12.22:588][468]LightingResults: New page: Lighting Build
+[2021.07.25-06.12.22:688][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.25-06.12.22:699][468]LogUObjectHash: Compacting FUObjectHashTables data took   7.59ms
+[2021.07.25-06.12.23:062][468]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2021.07.25-06.12.23:066][468]LogAIModule: Creating AISystem for world Level1
+[2021.07.25-06.12.23:539][468]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.25-06.12.23:651][468]LogUObjectHash: Compacting FUObjectHashTables data took  10.93ms
+[2021.07.25-06.12.23:718][468]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.25-06.12.23:719][468]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.159ms to complete.
+[2021.07.25-06.12.23:719][468]LogFileHelpers: Loading map 'Level1' took 1.208
+[2021.07.25-06.12.23:720][468]LogSlate: Window 'Open Level' being destroyed
+[2021.07.25-06.12.23:800][468]AssetCheck: New page: Asset Save: Showcase
+[2021.07.25-06.12.23:801][468]LogContentValidation: Display: Validating World /Game/AnimStarterPack/Showcase.Showcase
+[2021.07.25-06.18.15:196][599]LogTemp: Repeating last play command: Simulate
+[2021.07.25-06.18.15:266][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.25-06.18.15:267][599]PIE: New page: SIE session: Level1 (26/07/2021, 6:18:15 am)
+[2021.07.25-06.18.15:267][599]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2021.07.25-06.18.15:317][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049422s)
+[2021.07.25-06.18.15:320][599]LogAIModule: Creating AISystem for world Level1
+[2021.07.25-06.18.15:321][599]LogPlayLevel: PIE: World Init took: (0.003737s)
+[2021.07.25-06.18.15:321][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.053688s)
+[2021.07.25-06.18.15:448][599]LogUObjectHash: Compacting FUObjectHashTables data took  37.86ms
+[2021.07.25-06.18.15:473][599]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2021.07.25-06.18.15:474][599]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.25-06.18.15:474][599]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.25-06.18.15:474][599]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.25-06.18.15:474][599]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.25-06.18.15:474][599]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.25-06.18.15:474][599]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.25-06.18.15:474][599]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.25-06.18.15:474][599]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.25-06.18.15:477][599]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.25-06.18.15:478][599]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.25-06.18.15:499][599]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.25-06.18.15:499][599]LogAudioMixer: Display: 1: FrontRight
+[2021.07.25-06.18.15:546][599]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2021.07.25-06.18.15:548][599]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.25-06.18.15:549][599]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.25-06.18.15:549][599]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.25-06.18.15:551][599]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.25-06.18.15:551][599]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.25-06.18.15:551][599]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.25-06.18.15:625][599]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.25-06.18.15:625][599]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.25-06.18.15:625][599]LogInit: FAudioDevice initialized.
+[2021.07.25-06.18.15:625][599]LogAudio: Display: Audio Device (ID: 43) registered with world 'Level1'.
+[2021.07.25-06.18.15:650][599]LogLoad: Game class is 'BP_BlankProjectCPPGameModeBase_C'
+[2021.07.25-06.18.15:660][599]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.07.25-18.18.15
+[2021.07.25-06.18.15:686][599]LogWorld: Bringing up level for play took: 0.030417
+[2021.07.25-06.18.15:687][599]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2021.07.25-06.18.15:695][599]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.07.25-06.18.15:792][599]PIE: Server logged in
+[2021.07.25-06.18.15:796][599]PIE: Play in editor total start time 0.537 seconds.
+[2021.07.25-06.18.17:007][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.25-06.18.17:008][607]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2021.07.25-06.18.17:015][607]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-06.18.17:016][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.18.17:096][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.25-06.18.17:112][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-06.18.17:179][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.25-06.18.17:180][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.25-06.18.17:183][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.25-06.18.17:298][607]LogUObjectHash: Compacting FUObjectHashTables data took  10.14ms
+[2021.07.25-06.18.17:418][608]LogPlayLevel: Display: Destroying online subsystem :Context_81
