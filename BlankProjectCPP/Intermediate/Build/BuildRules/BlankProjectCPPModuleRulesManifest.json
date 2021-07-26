@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Ollie\\OneDrive\\Documents\\swen\\comp313\\assignments\\assig1\\COMP313_A1\\BlankProjectCPP\\Source\\BlankProjectCPP\\BlankProjectCPP.Build.cs",
-		"C:\\Users\\Ollie\\OneDrive\\Documents\\swen\\comp313\\assignments\\assig1\\COMP313_A1\\BlankProjectCPP\\Source\\BlankProjectCPP.Target.cs",
-		"C:\\Users\\Ollie\\OneDrive\\Documents\\swen\\comp313\\assignments\\assig1\\COMP313_A1\\BlankProjectCPP\\Source\\BlankProjectCPPEditor.Target.cs"
+		"/Users/Guest/Documents/COMP313_A1/BlankProjectCPP/Source/BlankProjectCPP/BlankProjectCPP.Build.cs",
+		"/Users/Guest/Documents/COMP313_A1/BlankProjectCPP/Source/BlankProjectCPP.Target.cs",
+		"/Users/Guest/Documents/COMP313_A1/BlankProjectCPP/Source/BlankProjectCPPEditor.Target.cs"
 	],
 	"EngineVersion": "4.26.2"
 }
